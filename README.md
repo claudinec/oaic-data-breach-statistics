@@ -1,6 +1,6 @@
 # OAIC Notifiable Data Breach statistics
 
-Manually collated summaries of [Notifiable Data Breach Reports](https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications) published by the Australian Information Commissioner (OAIC).
+Manually collated summaries of [Notifiable Data Breach Reports](https://www.oaic.gov.au/privacy/notifiable-data-breaches/notifiable-data-breaches-publications) published by the Office of the Australian Information Commissioner (OAIC).
 
 
 ## Summary columns
@@ -9,7 +9,7 @@ Manually collated summaries of [Notifiable Data Breach Reports](https://www.oaic
 - `report_end`: End of the reporting period (inclusive)
 - `notifications`: Number of notifiable data breaches reported for this period
 - `stats_date`: The date of the compiled statistics as noted in the published report: "Statistics in this report are current as of ..."
-- `publish_date` Date the report was published
+- `publish_date`: Date the report was published
 - `report_url`: URL for the HTML version of this report
 
 ## Copyright
