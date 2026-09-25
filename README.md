@@ -5,12 +5,14 @@ Manually collated summaries of [Notifiable Data Breach Reports](https://www.oaic
 
 ## Summary columns
 
+From January to June 2025 onward, OAIC publish NDB statistics through the interactive dashboard with a companion blog post, rather than a standalone twice-yearly HTML/PDF report. This means later dashboard updates may revise previously published historical figures.
+
 - `report_begin`: Beginning of the reporting period (inclusive)
 - `report_end`: End of the reporting period (inclusive)
 - `notifications`: Number of notifiable data breaches reported for this period
-- `stats_date`: The date of the compiled statistics as noted in the published report: "Statistics in this report are current as of ..."
-- `publish_date`: Date the report was published
-- `report_url`: URL for the HTML version of this report
+- `stats_date`: The date of the compiled statistics as noted in the source publication, if one is given
+- `publish_date`: Date the source publication was published
+- `report_url`: URL for the source publication for this reporting period
 
 ## Copyright
 
